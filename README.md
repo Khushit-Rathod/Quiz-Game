@@ -4,6 +4,7 @@ Features- Score is sent through email-id , provided by the user
 Score are stored in Excel-sheet Multiple-choice questions Timer for each question , Score tracking Display of correct answer after each question , final score display at the end of the quiz , Cut-off for round 1
 
 Requirements- Python 3.x Tkinter Installation , The following commands are used to install the libraries- 
+
 pip install tk 
 
 pip install pandas 
